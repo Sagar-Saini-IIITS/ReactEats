@@ -1,0 +1,9 @@
+----- Commit 1 -----
+
+-> Display "Hello World" using html, then javascript, then using react via cdn
+-> CDN: A CDN is a network of servers linked together with the goal of delivering content
+   as quickly, cheaply, reliably, and securely as possible.
+-> crossorign: The crossorigin attribute in the script tag enables CrossOrigin Resource Sharing (CORS) 
+   for loading external JavaScript files from different origin than the hosting web page.
+-> CDN Files: React(React web and native) & React-DOM (library having code for basic web operations)
+-> React.createElement() , ReactDOM.createRoot() , root.render()
