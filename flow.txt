@@ -1,4 +1,0 @@
------Commit 1-----
-
--> Setting up react app from scratch using React CDN.
--> Display 'Hello ReactEats'
